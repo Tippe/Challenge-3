@@ -11,8 +11,8 @@
         </div>
         <div id="navbar">
           <ul class="nav navbar-nav">
-            <li><a href="<?php echo base_url(); ?>">Home</a></li>
-            <li><a href="<?php echo base_url(); ?>/about">About</a></li>
+            <li><a href="#">Home</a></li> <!-- ?php echo base_url(); ? -->
+            <li><a href="login">Login</a></li>
           </ul>
         </div>
       </div>
